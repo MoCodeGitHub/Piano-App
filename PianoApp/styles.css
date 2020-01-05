@@ -11,3 +11,22 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.piano {
+  display: flex;
+}
+
+.key {
+
+}
+
+.white{
+  width: 100px;
+  height: 400px;
+  background-color: white;
+  border: 1px solid #333
+}
+
+.black{
+
+}
