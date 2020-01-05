@@ -1,0 +1,13 @@
+*, *::before, ::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("brown-wooden-coffee-table-below-an-uplight-chandelier-68389.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: 1310px 800px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
